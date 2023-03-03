@@ -6,9 +6,20 @@ LICENSE: [MIT](./license.md)
 
 ---
 
+**Git** (*произносится «гит»*) — распределённая система управления версиями. Проект был создан Линусом Торвальдсом для управления разработкой ядра Linux, первая версия выпущена 7 апреля 2005 года.
+
 ### Содержание:
-1. Что-то
-2. [git add](./add.md)
+1. [git init](./init.md)
+2. [git clone](./clone.md)
+3. [git add](./add.md)
+4. [git status](./status.md)
+5. [git diff](./diff.md)
+6. [git commit](./commit.md)
+7. [git notes](./notes.md)
+8. [git restore](./restore.md)
+9. [git reset](./reset.md)
+10. [git rm](./rm.md)
+11. [git mv](./mv.md)
 
 ---
 
